@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analysing IBM's HR employee attrition dataset — identifying the key drivers of employee attrition and presenting findings through professional business intelligence visualisations. Built as the third instalment of a multi-tool analytics portfolio covering the same dataset across Python, Excel, and Power BI.
 
-📊 **Live Dashboard:** [View on Power BI Service](#) *(replace with your published link)*
+📊 **Live Dashboard:** [View on Power BI Service](#) (https://github.com/Njabulo-Kubheka/ibm-hr-attrition-powerbi-dashboard/blob/253231b1c7b1ef9bf82cb2da0d18c8f54bfa0908/IBM%20Report.pbix)
 
 ---
 
